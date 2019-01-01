@@ -1,4 +1,4 @@
-def nan_interpolation(y):
+def interpolate_nans(y):
     """Helper to handle indices and logical indices of NaNs.
 
     Parameters
