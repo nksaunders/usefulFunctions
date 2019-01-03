@@ -1,3 +1,5 @@
+import numpy as np
+
 def interpolate_nans(y):
     """Helper to handle indices and logical indices of NaNs.
 
